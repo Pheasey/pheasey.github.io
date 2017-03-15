@@ -1,0 +1,56 @@
+.container {
+    margin-top: 20px;
+}
+.nav {
+    margin: 13px 0 0 0;
+}
+.nav ul li {
+    display: inline;
+    margin: 0 20px 0 0;
+    margin-bottom: 130px;
+}
+.nav a {
+    text-decoration: none;
+}
+.is-subtitle {} .is-title {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.is-center {
+    text-align: center;
+}
+.has-subtitle {
+    margin-bottom: 0;
+}
+img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+.is-centered {
+    text-align: center;
+}
+.profile-image {
+    border-radius: 10px;
+}
+.nav-image {
+    margin: auto;
+    display: block;
+}
+/*article {
+  padding: 0.5rem;
+  border: solid #ececec 1px;
+  border-radius: 5px
+}*/
+
+.no-list {
+    list-style: none;
+}
+.nav-name {
+    font-weight: 400;
+}
+
+.nav-name a {
+  text-transform: none;
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Live Page - Track"
+subtitle:  "A Streaming Aggregator Site"
+desc:  "Displaying live content from several creators."
+date:   2015-03-14 18:26:33 +0000
+categories: project html css js
+---
+
+A gaming community hosted many knockout style tournament events which had a large community following. Many streamers would be livestreaming various matches throughout the day. For a viewer this was very confusing as the channel on which the matches were available changed depending on which streamer was assigned to it.
+
+[Twitch.TV](https://www.twitch.tv/) only offers team pages to partnered streamers, these pages allow for multiple content creators to be displayed on a single page allowing the user to switch between them.
+
+I created the following site so players could see which streamer was assigned which matches giving them the ability to watch the stream from the site.
+
+![]({{ site.url }}/assets/images/live_page.png)
+
+Live Demo: [Live Page](http://pugzy.github.io/Live/)    
+Source: [Github Repo](https://github.com/Pugzy/Live)
