@@ -12,12 +12,12 @@ These sites were created using Dreamweaver with hacky floats and margins in a wa
 
 **Design 1**
 
-![]({{ site.url }}/assets/images/Sound_Wavs_Blog.png)
+![]({{ site.url }}/assets/images/sound_wavs_blog.png)
 
 **Design 2**
 
-![]({{ site.url }}/assets/images/Sound_Wavs.png)
+![]({{ site.url }}/assets/images/sound_wavs.png)
 
 **Design 3**
 
-![]({{ site.url }}/assets/images/Sound_Wavs_Trans.png)
+![]({{ site.url }}/assets/images/sound_wavs_trans.png)

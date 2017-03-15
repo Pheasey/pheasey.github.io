@@ -6,7 +6,7 @@ desc:  "Encryption/Decryption of Emoji strings."
 date:   2015-03-14 18:26:33 +0000
 categories: project html js
 ---
-Whilst speaking to a group of friends we discussed the idea of sending encrypted messages in the form of Emojis. This lead to me implementing a basic encryption/decryption Javascript driven page using one of the simplest form of encryption, the cipher shift.
+Whilst speaking to a group of friends we discussed the idea of sending encrypted messages in the form of Emojis. This lead to me implementing a basic encryption/decryption Javascript driven page using one of the simplest forms of encryption, the cipher shift.
 
 ![]({{ site.url }}/assets/images/emoji_cipher.png)
 

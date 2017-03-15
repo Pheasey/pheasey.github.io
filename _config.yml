@@ -31,4 +31,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-permalink: /:year/:title.html
+permalink: /:year/:title
